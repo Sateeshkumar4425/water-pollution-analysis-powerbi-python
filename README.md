@@ -147,3 +147,30 @@ Predictive modeling for pollution forecasting
 Automated PDF data extraction pipeline
 
 Deployment as a web-based dashboard
+
+## 📊 Excel Data Structuring
+
+### Raw Converted Data
+![Raw Excel](images/excel_raw_data.png)
+
+### Structured and Cleaned Data
+![Structured Excel](images/excel_structured_data.png)
+
+
+## 📊 Exploratory Data Analysis Visualizations
+
+### Drinkable Water Comparison (Top vs Bottom States)
+![Drinking Water Comparison](images/drinking_water_comparison.png)
+
+### Top 10 States by Aquatic Suitability Score
+![Aquatic Suitability](images/aquatic_suitability_ranking.png)
+
+### Distribution of Water Quality Types
+![Water Quality Distribution](images/water_quality_distribution.png)
+
+## 📊 Power Bi Dashboard 
+## 📷 Dashboard Preview
+
+![Dashboard Overview](images/[dashboard_overview.png](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/powerbi/images/Water%20pollution%20Detection.png))
+![Pollution Map](images/map_visual.png)
+
