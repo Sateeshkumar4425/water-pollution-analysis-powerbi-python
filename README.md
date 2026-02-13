@@ -171,7 +171,7 @@ Deployment as a web-based dashboard
 ## 📊 Power Bi Dashboard 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](powerbi/images/Water_pollution_Detection.png)
+![Dashboard Overview](powerbi/images/Water_pollution_Detection1.png)
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and does not provide financial or investment advice.
