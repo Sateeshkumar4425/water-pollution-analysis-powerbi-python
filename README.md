@@ -1,7 +1,7 @@
 # water-pollution-analysis-powerbi-python-Excel
 End-to-end data analysis and visualization of Indian water pollution data using Excel, Python (EDA), and Power BI.
 
-🌊 Water Pollution Analysis – world
+🌊 Water Pollution Analysis – India
 📌 Project Overview
 
 This project analyzes water pollution data collected from the Central Pollution Control Board (CPCB), India. The dataset was originally provided in PDF format and was transformed into structured data for analysis and visualization.
@@ -44,7 +44,6 @@ Performed cleaning using:
 pandas
 
 numpy
-
 matplotlib
 
 seaborn
