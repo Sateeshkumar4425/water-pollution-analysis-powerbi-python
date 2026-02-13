@@ -162,7 +162,7 @@ Deployment as a web-based dashboard
 ## 📊 Exploratory Data Analysis Visualizations
 
 ### Drinkable Water Comparison (Top vs Bottom States)
-![Drinking Water Comparison](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/notebooks/images/Density_Distributi_n_of_Aquatic_Suitability_Scor_(Polluted%20States).png)
+![Drinking Water Comparison](notebooks/images/top5vsBottom5_statesDrinking_water_comparsion.png)
 
 ### Top 10 States by Aquatic Suitability Score
 ![Aquatic Suitability](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/notebooks/images/Top10_State-wise_AquaticLife_Suitability.png)
