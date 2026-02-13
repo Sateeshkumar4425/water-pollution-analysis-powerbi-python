@@ -151,26 +151,42 @@ Deployment as a web-based dashboard
 ## 📊 Excel Data Structuring
 
 ### Raw Converted Data
-![Raw Excel](images/excel_raw_data.png)
+![Raw Excel](Excel/unstructured data/unstuctured .png)
 
 ### Structured and Cleaned Data
-![Structured Excel](images/excel_structured_data.png)
+![Structured Excel](Excel/Structuresd/Stuctured.png)
 
 
 ## 📊 Exploratory Data Analysis Visualizations
 
 ### Drinkable Water Comparison (Top vs Bottom States)
-![Drinking Water Comparison](images/drinking_water_comparison.png)
+![Drinking Water Comparison](notebooks/images/top5 vs Bottom 5 states Drinking water comparsion.png)
 
 ### Top 10 States by Aquatic Suitability Score
-![Aquatic Suitability](images/aquatic_suitability_ranking.png)
+![Aquatic Suitability](notebooks/images/Top 10 State-wise Aquatic Life Suitability.png)
 
 ### Distribution of Water Quality Types
-![Water Quality Distribution](images/water_quality_distribution.png)
+![Water Quality Distribution](notebooks/images/Density Distribution of Aquatic Suitability Score (Polluted States).png)
 
 ## 📊 Power Bi Dashboard 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](images/[dashboard_overview.png](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/powerbi/images/Water%20pollution%20Detection.png))
+![Dashboard Overview](powerbi/images/Water pollution Detection.png)
 ![Pollution Map](images/map_visual.png)
+
+## ⚠️ Disclaimer
+This project is for educational purposes only and does not provide financial or investment advice.
+## 📄 License
+This project is licensed under the MIT License.
+---
+
+## 👨‍💻 Author
+**Sateesh Kumar Patlegar**
+
+💼 Open to data science, analytics, and quant roles
+
+📧 Email: patlegarsateeshkumar@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
+
 
