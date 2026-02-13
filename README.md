@@ -151,7 +151,7 @@ Deployment as a web-based dashboard
 ## 📊 Excel Data Structuring
 
 ### Raw Converted Data
-![Raw Excel](Excel/unstructured data/unstuctured .png)
+![Raw Excel](Excel/unstructured/unstuctured.png)
 
 ### Structured and Cleaned Data
 ![Structured Excel](Excel/Structuresd/Stuctured.png)
@@ -160,19 +160,18 @@ Deployment as a web-based dashboard
 ## 📊 Exploratory Data Analysis Visualizations
 
 ### Drinkable Water Comparison (Top vs Bottom States)
-![Drinking Water Comparison](notebooks/images/top5 vs Bottom 5 states Drinking water comparsion.png)
+![Drinking Water Comparison](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/notebooks/images/Density_Distributi_n_of_Aquatic_Suitability_Scor_(Polluted%20States).png)
 
 ### Top 10 States by Aquatic Suitability Score
-![Aquatic Suitability](notebooks/images/Top 10 State-wise Aquatic Life Suitability.png)
+![Aquatic Suitability](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/notebooks/images/Top10_State-wise_AquaticLife_Suitability.png)
 
 ### Distribution of Water Quality Types
-![Water Quality Distribution](notebooks/images/Density Distribution of Aquatic Suitability Score (Polluted States).png)
+![Water Quality Distribution](https://github.com/Sateeshkumar4425/water-pollution-analysis-powerbi-python/blob/main/notebooks/images/Types_of_Water_Based_on_Quality.png)
 
 ## 📊 Power Bi Dashboard 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](powerbi/images/Water pollution Detection.png)
-![Pollution Map](images/map_visual.png)
+![Dashboard Overview](powerbi/images/Water_pollution_Detection.png)
 
 ## ⚠️ Disclaimer
 This project is for educational purposes only and does not provide financial or investment advice.
