@@ -174,7 +174,9 @@ Deployment as a web-based dashboard
 ![Dashboard Overview](powerbi/images/Water_pollution_Detection1.png)
 
 ## ⚠️ Disclaimer
-This project is for educational purposes only and does not provide financial or investment advice.
+I hereby declare that this project is my original work. The dataset was sourced from the CPCB official website and processed, analyzed, and visualized independently using Excel, Python, and Power BI for educational and portfolio purposes.
+Note: The dataset used in this project was sourced from the Central Pollution Control Board (CPCB), Government of India. The project is created for educational and analytical purposes only.
+
 ## 📄 License
 This project is licensed under the MIT License.
 ---
