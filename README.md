@@ -1,109 +1,108 @@
-# water-pollution-analysis-powerbi-python-Excel
-End-to-end data analysis and visualization of Indian water pollution data using Excel, Python (EDA), and Power BI.
-
 # 🌊 Water Pollution Analysis – India
 ### End-to-End Data Analysis & Visualization using Excel, Python, and Power BI
+
+An end-to-end environmental data analytics project analyzing Indian water pollution data sourced from the Central Pollution Control Board (CPCB). This project demonstrates the complete workflow from raw government PDF data to an interactive business-ready dashboard.
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes water pollution data collected from the Central Pollution Control Board (CPCB), India.
+This project focuses on analyzing water pollution trends across Indian states using official CPCB data.  
 
-The dataset was originally available in PDF format and was transformed into structured data for analysis and visualization.
+The dataset was originally available in PDF format and was transformed into structured, analysis-ready data before performing exploratory analysis and dashboard development.
 
-This project demonstrates a complete end-to-end data workflow:
-
-- Data Extraction from Government Source  
-- Data Structuring in Excel  
-- Data Cleaning using Python  
-- Exploratory Data Analysis (EDA)  
-- Interactive Dashboard Development using Power BI  
+### 🔄 End-to-End Workflow
+- 📥 Data extraction from government source (PDF)
+- 📊 Data structuring and formatting in Excel
+- 🧹 Data cleaning and transformation using Python
+- 📈 Exploratory Data Analysis (EDA)
+- 📊 Interactive dashboard development using Power BI
 
 ---
 
 ## 📂 Data Source
 
-- Source: Central Pollution Control Board (CPCB)  
-- Website: https://cpcb.nic.in/nwmp-data/  
-- Original Format: PDF  
-- Converted To: Structured Excel format  
+- **Organization:** Central Pollution Control Board (CPCB), Government of India  
+- **Website:** https://cpcb.nic.in/nwmp-data/  
+- **Original Format:** PDF  
+- **Processed Format:** Structured Excel & CSV  
 
 ---
 
-## 🔄 Project Workflow
+## 🧹 Data Cleaning & Preparation (Python)
 
-### 1️⃣ Data Extraction
-- Downloaded raw pollution data from the CPCB website  
-- Converted PDF data into Excel format  
-- Structured the data into tabular format  
-
-### 2️⃣ Data Cleaning (Python)
-
-**Libraries Used:**
+**Libraries Used**
 - pandas  
 - numpy  
 - matplotlib  
 - seaborn  
 
-**Cleaning Steps Performed:**
-- Removed irrelevant columns  
+**Key Cleaning Steps**
+- Removed irrelevant and duplicate columns  
 - Handled missing values  
 - Standardized column names  
-- Converted data types  
-- Created derived features (`water_type`, `aquatic_score`, `pH_category`)  
-
-### 3️⃣ Exploratory Data Analysis (EDA)
-
-- State-wise pollution comparison  
-- BOD vs DO relationship analysis  
-- Year-wise pollution trends  
-- Water quality classification distribution  
-- Correlation analysis  
-
-### 4️⃣ Power BI Dashboard
-
-- State-wise pollution map  
-- Top polluted states  
-- Year-wise trend analysis  
-- Water quality distribution visuals  
-- Interactive filters  
+- Converted appropriate data types  
+- Engineered derived features (`water_type`, `aquatic_score`, `pH_category`)  
 
 ---
 
-## 📊 Key Insights
+## 📊 Exploratory Data Analysis (EDA)
 
-- Certain states show consistently high BOD levels.  
-- High BOD is associated with lower Dissolved Oxygen levels.  
-- Pollution trends vary significantly across years.  
+- State-wise pollution comparison  
+- BOD vs Dissolved Oxygen relationship analysis  
+- Year-wise pollution trend evaluation  
+- Water quality classification distribution  
+- Correlation analysis between pollution indicators  
+
+---
+
+## 📊 Power BI Dashboard
+
+The interactive Power BI dashboard provides:
+
+- 🗺 State-wise pollution mapping  
+- 📈 Year-wise pollution trend visualization  
+- 📊 Top polluted states analysis  
+- 💧 Water quality distribution  
+- 🎛 Dynamic filtering by state and year  
+
+---
+
+## 📈 Key Insights
+
+- Certain states consistently exhibit higher BOD levels.  
+- Elevated BOD levels are associated with reduced Dissolved Oxygen.  
+- Pollution levels vary significantly across years.  
 - Water quality classification highlights regions requiring intervention.  
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies
 
 - Microsoft Excel  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
 - Jupyter Notebook  
 - Power BI  
-- GitHub  
+- Git & GitHub  
 
 ---
 
 ## 📁 Repository Structure
 
+```
 water-pollution-analysis-powerbi-python-excel/
-│
 ├── data/
-│ ├── raw/
-│ ├── processed/
-│
-├── excel/
-├── notebooks/
-├── powerbi/
-├── images/
-├── requirements.txt
+│ ├── raw/ # Original converted dataset
+│ └── processed/ # Cleaned dataset used for analysis
+├── excel/ # Structured Excel file
+├── notebooks/ # Jupyter Notebook (EDA + cleaning)
+├── powerbi/ # Power BI dashboard (.pbix)
+├── images/ # Project screenshots
+├── requirements.txt # Python dependencies
 └── README.md
+```
+
+---
 
 
 ---
@@ -120,7 +119,7 @@ water-pollution-analysis-powerbi-python-excel/
 
 ## 📊 Exploratory Data Analysis Visualizations
 
-### Drinkable Water Comparison (Top vs Bottom States)
+### Top 5 vs Bottom 5 States – Drinking Water Comparison
 ![Drinking Water Comparison](notebooks/images/top5vsBottom5_statesDrinking_water_comparsion.png)
 
 ### Top 10 States by Aquatic Suitability Score
@@ -131,33 +130,32 @@ water-pollution-analysis-powerbi-python-excel/
 
 ---
 
-## 📊 Power BI Dashboard
+## 📊 Power BI Dashboard Preview
 
-### Dashboard Preview
 ![Dashboard Overview](powerbi/images/Water_pollution_Detection1.png)
 
 ---
 
 ## 🚀 Project Highlights
 
-- End-to-end pipeline from raw government PDF to interactive dashboard  
+- Complete pipeline from raw government PDF to interactive dashboard  
 - Real-world environmental dataset  
-- Demonstrates data cleaning, transformation, and visualization skills  
-- Business-ready Power BI dashboard  
+- Demonstrates strong data cleaning, transformation, and visualization skills  
+- Business-ready analytical dashboard  
 
 ---
 
-## 📌 Future Improvements
+## 📌 Future Enhancements
 
 - Predictive modeling for pollution forecasting  
 - Automated PDF data extraction pipeline  
-- Deployment as a web-based dashboard  
+- Deployment as a web-based analytical application  
 
 ---
 
 ## ⚠️ Disclaimer
 
-I hereby declare that this project is my original work. The dataset was sourced from the CPCB official website and processed, analyzed, and visualized independently using Excel, Python, and Power BI for educational and portfolio purposes.
+This project is an independent analytical work. The dataset was sourced from the official CPCB website and processed, analyzed, and visualized for educational and portfolio purposes only.
 
 ---
 
@@ -171,11 +169,6 @@ This project is licensed under the MIT License.
 
 **Sateesh Kumar Patlegar**
 
-💼 Open to Data Science, Analytics, and Quant roles  
-
-📧 Email: patlegarsateeshkumar@gmail.com  
-
-🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
-
-
-
+📧 patlegarsateeshkumar@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/  
+💼 Open to Data Science, Analytics, and Quant opportunities
