@@ -169,6 +169,6 @@ This project is licensed under the MIT License.
 
 **Sateesh Kumar Patlegar**
 
-📧 patlegarsateeshkumar@gmail.com  
+📧 Gmail: patlegarsateeshkumar@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/  
 💼 Open to Data Science, Analytics, and Quant opportunities
