@@ -132,7 +132,7 @@ water-pollution-analysis-powerbi-python-excel/
 
 ## 📊 Power BI Dashboard Preview
 
-![Dashboard Overview](powerbi/images/Water_pollution_Detection1.png)
+![Dashboard Overview](powerbi/images/Water_pollution_Analysis1.png)
 
 ---
 
